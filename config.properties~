@@ -1,0 +1,17 @@
+#Fri Sep 27 13:29:46 PDT 2013
+#smtp config
+smtp.host=smtp.gmail.com
+#smtp.port
+smtp.port=587
+#username for email
+username=
+#password
+password=
+#customer.csv - path to input csv file contains entries of email,productid 
+#one product per entry
+customer.csv=customer.dat
+#polling-interval - time delay(in seconds) between 2 consecutive rest api calls
+#min : 10 seconds 
+polling-interval=60
+#sender-mailid
+senderId=
